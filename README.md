@@ -8,7 +8,7 @@
 
 - `#042421` - Dark blue  <br>
 - `#003851` - Light blue <br>
-- `#2264be` - Light green <br>
+- `#22646e` - Light green <br>
 - `#bfd2d9` - slightly white <br>
 - `#3b89ae` - modern blue [not horror blue actually] <br><br>
 
