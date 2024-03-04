@@ -21,11 +21,11 @@ palette 2
 - `#d0d6d6` - darkest teal <br><br>
 
  palette 3 
-- `0d3a3l` -Dark green <br>
-- `22494l` - slightly dark green <br>
-- `245b47` - green <br>
-- `223546` - slight dark blue <br>
-- `192a3c` - dark blue <br>
+- `#0d3a3l` -Dark green <br>
+- `#22494l` - slightly dark green <br>
+- `#245b47` - green <br>
+- `#223546` - slight dark blue <br>
+- `#192a3c` - dark blue <br>
 
 
 > [!TIP]
